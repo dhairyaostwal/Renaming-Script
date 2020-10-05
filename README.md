@@ -4,9 +4,10 @@
 
 A .py script that helps you rename the files you download from internet. 
 
-Initially, **FALLSEM2020-21_CSE2001_TH_VL2020210104486_Reference_Material_I_03-Sep-2020_Virtual_Memory**
+✅ Initially, FALLSEM2020-21_CSE2001_TH_VL2020210104486_Reference_Material_I_03-Sep-2020_Virtual_Memory
 
-After running script = **03-Sep-2020 VirtualMemory**
+✅ After running script = 03-Sep-2020 VirtualMemory
+
 
 ```
 
@@ -21,7 +22,7 @@ After running script = **03-Sep-2020 VirtualMemory**
 
 ## Credits:
 
-Major inspiration: @sudo-vaibhav
+Major inspiration: [@sudo-vaibhav](https://github.com/sudo-vaibhav/VTOP_file_organizer)
 
 ## Before you leave 🥺
 
