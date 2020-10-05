@@ -12,7 +12,7 @@ A .py script that helps you rename the files you download from internet.
 ## Running Script
 
 ```
-1. Open text editor maybe VS Code 😅
+1. Clone the repo. Open text editor maybe VS Code 😅
 2. Enter your destination folder
 3. Open terminal
 4. Type python3 RenamingFiles.py
