@@ -1,8 +1,6 @@
 # Renaming Script
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyaostwal" alt="Dhairya Ostwal" /></p>
----
 
-```
 
 A .py script that helps you rename the files you download from internet. 
 
@@ -10,8 +8,6 @@ A .py script that helps you rename the files you download from internet.
 
 ✅ After running script = 03-Sep-2020 VirtualMemory
 
-
-```
 
 ## Running Script
 
