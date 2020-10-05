@@ -1,4 +1,6 @@
 # Renaming Script
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyaostwal" alt="Dhairya Ostwal" /></p>
+---
 
 ```
 
