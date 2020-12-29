@@ -4,18 +4,31 @@
 
 A .py script that helps you rename the files you download from internet. 
 
-✅ Initially, FALLSEM2020-21_CSE2001_TH_VL2020210104486_Reference_Material_I_03-Sep-2020_Virtual_Memory
+### ✅ Initially, 
 
-✅ After running script = 03-Sep-2020 VirtualMemory
+```
 
+FALLSEM2020-21_CSE2001_TH_VL2020210104486_Reference_Material_I_03-Sep-2020_Virtual_Memory
+
+```
+
+### ✅ After running script 
+
+```
+
+03-Sep-2020 VirtualMemory
+
+```
 
 ## Running Script
 
 ```
+
 1. Clone the repo. Open text editor maybe VS Code 😅
 2. Enter your destination folder
 3. Open terminal
-4. Type python3 RenamingFIles.py
+4. Type python3 RenamingFiles.py
+
 ```
 
 ## Credits:
