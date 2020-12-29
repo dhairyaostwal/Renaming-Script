@@ -1,5 +1,5 @@
 # Renaming Script
-[![Visits Badge](https://badges.pufler.dev/visits/dhairyaostwal/portfolio-website)](https://github.com/dhairyaostwal/Renaming-Script/)
+[![Visits Badge](https://badges.pufler.dev/visits/dhairyaostwal/Renaming-Script)](https://github.com/dhairyaostwal/Renaming-Script/)
 
 
 A .py script that helps you rename the files you download from internet. 
